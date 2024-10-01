@@ -18,5 +18,5 @@ To run this game, you need to have the following installed on your system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/abhishekbiy/SnakeGame
    cd snake-game
